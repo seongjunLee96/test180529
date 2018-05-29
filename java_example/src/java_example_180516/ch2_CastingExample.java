@@ -7,7 +7,7 @@ public class ch2_CastingExample {
 		//기존int 타입의 변수가 char 타입으로 강제 타입변환 발생
 		char charValue = (char) intValue;
 		System.out.println(charValue);
-		
+		//
 		long longValue = 500;
 		//기존long 타입의 변수가 int 타입으로 강제 타입변환 발생
 		intValue = (int) longValue;
