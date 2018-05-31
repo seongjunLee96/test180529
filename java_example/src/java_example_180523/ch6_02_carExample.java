@@ -1,6 +1,6 @@
 package java_example_180523;
 //CarExample 클래스
-public class ch5_02_carExample {
+public class ch6_02_carExample {
 
 	public static void main(String[] args) {
 		//Car 클래스 객체 선언
